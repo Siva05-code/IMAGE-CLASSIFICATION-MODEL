@@ -3,7 +3,7 @@
 *COMPANY*: CODTECH IT SOLUTIONS
 
 *NAME*: SIVAKARTHICK B
-I
+
 *INTERN ID*: : CT08FYO
 
 *DOMAIN*: MACHINE LEARNING
@@ -76,4 +76,6 @@ The CNN model was designed with the following layers:
 ### **Conclusion**
 This project successfully implemented a **Convolutional Neural Network (CNN)** for recognizing handwritten digits with high accuracy. By leveraging deep learning techniques and efficient data preprocessing, we built a robust model that can classify digits from both the MNIST dataset and custom handwritten images. The application of this model extends to various real-world domains where handwritten text recognition is essential.
 
+
+### **Output**
 
