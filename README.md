@@ -79,3 +79,5 @@ This project successfully implemented a **Convolutional Neural Network (CNN)** f
 
 ### **Output**
 
+
+<img width="1186" alt="Image" src="https://github.com/user-attachments/assets/0fc18612-b8a3-447a-86e9-2e9fb0f7d247" />
